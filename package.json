@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jshint": "^2.13.6"
+  },
+  "name": "serial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["js","html","scri[pt"],
+  "author": "",
+  "license": "ISC",
+  "description": "Javascript from 0 to hero"
+}
